@@ -1,0 +1,2 @@
+# exercise
+record my study
